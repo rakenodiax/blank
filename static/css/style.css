@@ -1,0 +1,11 @@
+body {
+  background-color: #222;
+  color: #eee;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: #111;
+}

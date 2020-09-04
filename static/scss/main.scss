@@ -1,0 +1,13 @@
+@import "variables";
+
+body {
+  background-color: $background;
+  color: $text;
+}
+
+header {
+  position: sticky;
+  top: 0;
+  left: 0;
+  background-color: $surface-background;
+}
