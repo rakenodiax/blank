@@ -1,12 +1,12 @@
-name = "Blank"
+name = "kellenfujimoto"
 license = "MIT"
 licenselink = "https://github.com/vimux/blank/blob/master/LICENSE"
-description = "Starter Hugo theme for developers."
-homepage = "https://github.com/vimux/blank/"
-tags = ["blog", "plain", "blank", "starter", "development"]
+description = "Theme for kellenfujimoto.com"
+homepage = "https://github.com/rakenodiax/blank/"
+tags = ["blog"]
 features = ["blog"]
 min_version = "0.20"
 
 [author]
-  name = "Vimux"
-  homepage = "https://github.com/vimux"
+  name = "Kellen Frodelius-Fujimoto"
+  homepage = "https://github.com/rakenodiax"
